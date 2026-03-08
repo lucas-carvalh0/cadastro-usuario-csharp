@@ -1,0 +1,14 @@
+D:\ADS- 3 Semestre\Meus projetos para Portfólio\ProjetoSistemadeCadastro\ProjetoSistemadeCadastro\bin\Debug\net8.0\ProjetoSistemadeCadastro.exe
+D:\ADS- 3 Semestre\Meus projetos para Portfólio\ProjetoSistemadeCadastro\ProjetoSistemadeCadastro\bin\Debug\net8.0\ProjetoSistemadeCadastro.deps.json
+D:\ADS- 3 Semestre\Meus projetos para Portfólio\ProjetoSistemadeCadastro\ProjetoSistemadeCadastro\bin\Debug\net8.0\ProjetoSistemadeCadastro.runtimeconfig.json
+D:\ADS- 3 Semestre\Meus projetos para Portfólio\ProjetoSistemadeCadastro\ProjetoSistemadeCadastro\bin\Debug\net8.0\ProjetoSistemadeCadastro.dll
+D:\ADS- 3 Semestre\Meus projetos para Portfólio\ProjetoSistemadeCadastro\ProjetoSistemadeCadastro\bin\Debug\net8.0\ProjetoSistemadeCadastro.pdb
+D:\ADS- 3 Semestre\Meus projetos para Portfólio\ProjetoSistemadeCadastro\ProjetoSistemadeCadastro\obj\Debug\net8.0\ProjetoSistemadeCadastro.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADS- 3 Semestre\Meus projetos para Portfólio\ProjetoSistemadeCadastro\ProjetoSistemadeCadastro\obj\Debug\net8.0\ProjetoSistemadeCadastro.AssemblyInfoInputs.cache
+D:\ADS- 3 Semestre\Meus projetos para Portfólio\ProjetoSistemadeCadastro\ProjetoSistemadeCadastro\obj\Debug\net8.0\ProjetoSistemadeCadastro.AssemblyInfo.cs
+D:\ADS- 3 Semestre\Meus projetos para Portfólio\ProjetoSistemadeCadastro\ProjetoSistemadeCadastro\obj\Debug\net8.0\ProjetoSistemadeCadastro.csproj.CoreCompileInputs.cache
+D:\ADS- 3 Semestre\Meus projetos para Portfólio\ProjetoSistemadeCadastro\ProjetoSistemadeCadastro\obj\Debug\net8.0\ProjetoSistemadeCadastro.dll
+D:\ADS- 3 Semestre\Meus projetos para Portfólio\ProjetoSistemadeCadastro\ProjetoSistemadeCadastro\obj\Debug\net8.0\refint\ProjetoSistemadeCadastro.dll
+D:\ADS- 3 Semestre\Meus projetos para Portfólio\ProjetoSistemadeCadastro\ProjetoSistemadeCadastro\obj\Debug\net8.0\ProjetoSistemadeCadastro.pdb
+D:\ADS- 3 Semestre\Meus projetos para Portfólio\ProjetoSistemadeCadastro\ProjetoSistemadeCadastro\obj\Debug\net8.0\ProjetoSistemadeCadastro.genruntimeconfig.cache
+D:\ADS- 3 Semestre\Meus projetos para Portfólio\ProjetoSistemadeCadastro\ProjetoSistemadeCadastro\obj\Debug\net8.0\ref\ProjetoSistemadeCadastro.dll
